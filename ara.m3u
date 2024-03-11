@@ -7,6 +7,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assad
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
 http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="Culture;Entertainment;News",Télé Maroc (1080p)
+https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 #EXTINF:-1 tvg-id="MBC1USA.us" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1
 https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 (1080p)
@@ -21,6 +23,8 @@ https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
 #EXTINF:-1 tvg-id="SamaDubai.ae" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="General",Sama Dubai (1080p)
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="Undefined",Abu Dhabi Aloula (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Athaqafia.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="Undefined",Arrabiaa (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
 #EXTINF:-1 tvg-id="7alaTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="Undefined",7ala TV [Geo-blocked]
@@ -29,8 +33,6 @@ http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/playlist.m3u8
 https://master.starmena-cloud.com/hls/a1jo.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="Religious",ABNsat (720p)
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="Undefined",Abu Dhabi Aloula (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://i.imgur.com/OT6DW3E.png" group-title="Undefined",Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
@@ -771,8 +773,6 @@ https://mn-nl.mncdn.com/tayba/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-logo="https://i.imgur.com/5VPYxJi.png" group-title="General",Tele Liban (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="Culture;Entertainment;News",Télé Maroc (1080p)
-https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 #EXTINF:-1 tvg-id="Elmouritania.mr" tvg-logo="https://i.imgur.com/rErKqzS.png" group-title="Undefined",Télévision de Mauritanie (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
 #EXTINF:-1 tvg-id="TeN.eg" tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="Undefined",TeN TV (720p) [Geo-blocked]
